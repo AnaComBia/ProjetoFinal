@@ -18,6 +18,10 @@ A calculadora tem um menu de opções com nove possibilidades diferentes:
 
 Sendo que as sete primeiras opções são operações matemáticas. 
 
+![image](https://user-images.githubusercontent.com/88218889/145657423-713af87d-ce69-4f05-b7d3-4723a3acde52.png)
+
+
 # Como Usar
 
 O usuário terá a visão do Menu assim que acessar o Programa, e em seguida poderá escolher a operação que deseja realizar indicando o numero correspondende ao mesmo.
+ 
