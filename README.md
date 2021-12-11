@@ -20,4 +20,4 @@ Sendo que as sete primeiras opções são operações matemáticas.
 
 # Como Usar
 
-O 
+O usuário terá a visão do Menu assim que acessar o Programa, e em seguida poderá escolher a operação que deseja realizar indicando o numero correspondende ao mesmo.
