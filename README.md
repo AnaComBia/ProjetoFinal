@@ -1,4 +1,3 @@
-# Projeto Final
 
 O Projeto Final de Progamação em Computadores 1 consiste na criação de uma calculadora na linguegem C#
 
